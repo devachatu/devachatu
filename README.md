@@ -21,7 +21,7 @@ hi, i'm [Deva Chaitanya](https://www.google.com/search?q=chaitanya+sanakkayala&s
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/devachatu/devachatu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/devachatu/devachatu/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:devachatu@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -44,9 +44,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://www.buymeacoffee.com/devachatu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 
-📈 my github stats
+<!-- 📈 my github stats -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devachatu&show_icons=true&theme=gotham" alt="devachatu" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devachatu&show_icons=true&theme=gotham" alt="devachatu" /> -->
 
 
 
