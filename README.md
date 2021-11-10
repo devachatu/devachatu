@@ -7,15 +7,15 @@
 
 <br />
 
-hi, i'm [Deva Chaitanya](https://www.google.com/search?q=chaitanya+sanakkayala&sxsrf=AOaemvKYLO52sjZI8_YOU8rLgKvsukrCww%3A1636301726019&ei=nvuHYe0-5Mbj4Q_46I_oAw&oq=chaitanya+sanakkayala&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgQIABBDOgUIABCRAjoICAAQgAQQsQM6CgguEMcBENEDEEM6CwgAEIAEELEDEIMBOgcIABCxAxBDOgoIABCABBCHAhAUOgQILhBDOgcILhCxAxBDOgcIABDJAxBDOg4ILhCABBDHARCvARCTAjoICC4QgAQQsQM6EQguEIAEELEDEIMBEMcBEK8BOgsILhCABBDHARCvAToFCAAQgAQ6BQguEIAEOgcIIRAKEKABOggIABANEAoQHjoICAAQDRAFEB5KBAhBGABQpBVYuDVg1jZoA3ACeACAAe0BiAGyGJIBBjAuMjAuMZgBAKABAcgBBcABAQ&sclient=gws-wiz&ved=0ahUKEwjthf_40ob0AhVk4zgGHXj0Az0Q4dUDCA4&uact=5), a passionate self-taught mobile app/web flutter developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Deva Chaitanya](https://www.google.com/search?q=chaitanya+sanakkayala&sxsrf=AOaemvKYLO52sjZI8_YOU8rLgKvsukrCww%3A1636301726019&ei=nvuHYe0-5Mbj4Q_46I_oAw&oq=chaitanya+sanakkayala&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgQIABBDOgUIABCRAjoICAAQgAQQsQM6CgguEMcBENEDEEM6CwgAEIAEELEDEIMBOgcIABCxAxBDOgoIABCABBCHAhAUOgQILhBDOgcILhCxAxBDOgcIABDJAxBDOg4ILhCABBDHARCvARCTAjoICC4QgAQQsQM6EQguEIAEELEDEIMBEMcBEK8BOgsILhCABBDHARCvAToFCAAQgAQ6BQguEIAEOgcIIRAKEKABOggIABANEAoQHjoICAAQDRAFEB5KBAhBGABQpBVYuDVg1jZoA3ACeACAAe0BiAGyGJIBBjAuMjAuMZgBAKABAcgBBcABAQ&sclient=gws-wiz&ved=0ahUKEwjthf_40ob0AhVk4zgGHXj0Az0Q4dUDCA4&uact=5), a passionate self-taught mobile app/web flutter developer and a freelance software engineer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://github.com/devachatu/devachatu/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:devachatu@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**  
 
@@ -30,7 +30,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/devachatu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
