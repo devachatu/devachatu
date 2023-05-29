@@ -3,8 +3,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=devachatu.devachatu)
-
 <br />
 
 Hi, I'm [Deva Chaitanya](https://www.google.com/search?q=chaitanya+sanakkayala&sxsrf=AOaemvKYLO52sjZI8_YOU8rLgKvsukrCww%3A1636301726019&ei=nvuHYe0-5Mbj4Q_46I_oAw&oq=chaitanya+sanakkayala&gs_lcp=Cgdnd3Mtd2l6EAMyBQghEKABOgcIABBHELADOgQIIxAnOgQIABBDOgUIABCRAjoICAAQgAQQsQM6CgguEMcBENEDEEM6CwgAEIAEELEDEIMBOgcIABCxAxBDOgoIABCABBCHAhAUOgQILhBDOgcILhCxAxBDOgcIABDJAxBDOg4ILhCABBDHARCvARCTAjoICC4QgAQQsQM6EQguEIAEELEDEIMBEMcBEK8BOgsILhCABBDHARCvAToFCAAQgAQ6BQguEIAEOgcIIRAKEKABOggIABANEAoQHjoICAAQDRAFEB5KBAhBGABQpBVYuDVg1jZoA3ACeACAAe0BiAGyGJIBBjAuMjAuMZgBAKABAcgBBcABAQ&sclient=gws-wiz&ved=0ahUKEwjthf_40ob0AhVk4zgGHXj0Az0Q4dUDCA4&uact=5), a passionate self-taught application developer and a freelance software engineer from India. I have built multiple mobile and web appliatons for internships, projecs, hackathons and few startups. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
