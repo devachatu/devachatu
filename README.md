@@ -30,11 +30,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-if you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/devachatu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
 <!-- 📈 my github stats -->
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=devachatu&show_icons=true&theme=gotham" alt="devachatu" /> -->
